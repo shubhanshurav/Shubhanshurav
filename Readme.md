@@ -32,8 +32,8 @@
 <a href="https://www.instagram.com/polarameshchandra/">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="mailto:pola.shubhanshurao7037@gmail.com">
-    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:shubhanshurao7037@gmail.com">
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 
