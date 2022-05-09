@@ -9,7 +9,7 @@
 
 <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
-## I'm a Data Science and Student Forever!!
+## I'm a CSE 2nd Year Student!!
 
 - 🌱 I’m currently learning java and Javascript
 - 🔭 I’m currently working on Frontend projects
