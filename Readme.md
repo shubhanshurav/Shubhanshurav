@@ -15,7 +15,7 @@
 
 ## I'm a CSE 3rd Year Student!!
 
-- 🌱 I’m currently learning java and Javascript
+- 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
 - 📫 How to reach me shubhanshurao7037@gmail.com
 
