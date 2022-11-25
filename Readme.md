@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav)
 
 <a>
-   <img src="techstack.gif" height="350px"/>
-   <img align="right" height="400px" src="gif.gif"/>
+   <img src="https://www.pluralsight.com/" height="350px"/>
+   <img align="right" height="400px" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47p92j98npf27e49m3lmjvddj7tyexr6pkykm8d678&rid=giphy.gif&ct=g"/>
 </a>
 <br>
 <br>
