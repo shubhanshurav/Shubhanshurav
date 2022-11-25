@@ -8,13 +8,14 @@
 
 <p href="https://github.com/shubhanshurav">
    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-   <img align="left" height="auto" width="48%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
+   <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
 </p>   
 <br> <br>
 
 # Enjoy jokes :)
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
+   <img height="auto" width="288px" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
 </p>
 
 <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
@@ -67,6 +68,7 @@
 
 ## 📊Github Summary:
 
+<p><img align="right" height="auto" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/></p>
 <img width="470" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;
 <br>
 <br>
@@ -74,15 +76,12 @@
 
 <a href="#"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
-<a href="#"><img alt="shubhabshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-
+<a href="#"><img alt="shubhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
-[website]: https://frontend-rizky.web.app
-[linkedin]: https://www.linkedin.com/in/%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94%F0%9D%90%81%F0%9D%90%87%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94-%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8E-052320208/
+[linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=shubhanshurav
 [top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact
 [profile views]: https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square
-
 
 <br>
 <hr>
