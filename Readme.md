@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav)
 
 <a>
-   <img align="left" height="auto" width="400px" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47p74kbgb6c03ntkudw82hlh6qaugyh8vr7u6qv730&rid=giphy.gif&ct=g" height="350px"/>
-   <img align="right" height="75%" width="50%" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47p92j98npf27e49m3lmjvddj7tyexr6pkykm8d678&rid=giphy.gif&ct=g"/>
+   <img align="left" height="auto" width="300px" src="https://media2.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif?cid=ecf05e47p74kbgb6c03ntkudw82hlh6qaugyh8vr7u6qv730&rid=giphy.gif&ct=g" height="47%"/>
+   <img align="right" height="300px" width="47%%" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47p92j98npf27e49m3lmjvddj7tyexr6pkykm8d678&rid=giphy.gif&ct=g"/>
 </a>
 <br>
 <br>
