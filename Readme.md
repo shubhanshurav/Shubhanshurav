@@ -1,11 +1,19 @@
 # Hi, I'm Shubhanshu Rao (💻💖☕)
 
-[![ProfileViews](https://komarev.com/ghpvc/?username=rzkyadhi&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
+[![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
 
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav)
 
+<a>
+   <img src="techstack.gif" height="350px"/>
+   <img align="right" height="400px" src="gif.gif"/>
+</a>
+<br>
+<br>
+
+# Enjoy jokes :)
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
 </p>
