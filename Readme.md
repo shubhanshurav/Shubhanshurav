@@ -68,8 +68,8 @@
 
 ## 📊Github Summary:
 
-<p><img align="right" height="220" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
-<img align="left" width="55%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
+<img width="55%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
 <img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
