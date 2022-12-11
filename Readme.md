@@ -34,7 +34,7 @@
 <a href="https://www.facebook.com/shubhanshu.ravgautam/" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-<a href="https://www.linkedin.com/in/%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94%F0%9D%90%81%F0%9D%90%87%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%92%F0%9D%90%87%F0%9D%90%94-%F0%9D%90%91%F0%9D%90%80%F0%9D%90%8E-052320208/" target="blank" >
+<a href="https://www.linkedin.com/in/shubhanshu-rao-052320208/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://twitter.com/shubhanshu_rao" target="blank" >
