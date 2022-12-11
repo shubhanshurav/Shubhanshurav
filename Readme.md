@@ -73,9 +73,9 @@
 <br>
 <img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
-<a href="#"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
+<a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
-<a href="#"><img alt="shubhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<a href="https://github.com/shubhanshurav"><img alt="shubhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=shubhanshurav
