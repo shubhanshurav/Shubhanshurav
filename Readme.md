@@ -45,9 +45,8 @@
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <a href="mailto:shubhanshurao7037@gmail.com">
-<!--     <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> -->
-    <img align="left" src="https://img.shields.io/badge/Gmail-shubhanshuaro7037@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+</a>
 
 
 <br>
