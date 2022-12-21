@@ -16,6 +16,7 @@
 <p align="center">
     <img src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="288px" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
+   <img height  ="auto" width="288" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" /> 
 </p>
 
 <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
@@ -53,18 +54,40 @@
 <br>
 
 ## Languages and Tools:
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Canva-%2320C4CB.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+<p align="left">  
+<a href="https://github.com/shubhanshurav/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
+  <a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Git&svgfill=8ed5fa">
+</a>
+ <a href="https://github.com/shubhanshurav/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=df5c43">  
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=cd6799">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=028dd1">
+</a>   
+</p>
 
 <br>
+
+## 🎊GitHub Profile Tropfy
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
 
 ## 📊Github Summary:
 
@@ -75,7 +98,6 @@
 
 <a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
-<a href="https://github.com/shubhanshurav"><img alt="shubhanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhanshurav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=shubhanshurav
