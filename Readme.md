@@ -24,9 +24,9 @@
 
 # Enjoy jokes :)
 <p align="center">
-    <img src="https://readme-jokes.vercel.app/api"/>
-   <img height="auto" width="288" align = "left" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
-   <img height  ="auto" width="288" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" /> 
+    <img align = "left" width="35%" src="https://readme-jokes.vercel.app/api"/>
+   <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
+   <img height  ="auto" width="34%" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" /> 
 </p>
 
 ## Connect with me:
@@ -90,7 +90,7 @@
 
 ## 📊Github Summary:
 
-<p><img align="right" height="200" width="34%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<p><img align="right" height="280" width="34%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
 <img width="65%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
 <img height="auto" width="65%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
