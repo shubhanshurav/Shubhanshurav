@@ -90,12 +90,12 @@
 
 ## 📊Github Summary:
 
-<p><img align="right" height="200" width="43%" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"/>
-<img width="55%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<p><img align="right" height="200" width="34%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<img width="65%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 <br>
-<img height="195" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
+<img height="auto" width="65%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
-<a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
+<a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
