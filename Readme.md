@@ -1,6 +1,6 @@
-# Hi, I'm Shubhanshu Rao (💻💖☕)
-
 [![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
+
+# Hi, I'm Shubhanshu Rao (💻💖☕)
 
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
 
