@@ -15,14 +15,15 @@
 
 
 ## I'm a CSE 3rd Year Student!!
-<!-- < href="https://github.com/shubhanshurav"><img width = "20%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=92d" /></a> -->
+<!-- <a href="https://app.daily.dev/shubhanshurav"><img width="20%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=yyf" width="400" alt="Shubhanshu Rao's Dev Card"/></a> -->
 
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
 - 📫 How to reach me shubhanshurao7037@gmail.com
 - 💬 Ask me about HTML,CSS or JavaScript
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects
-
+<br>
+<br>
 <br>
 
 # Enjoy jokes :)
