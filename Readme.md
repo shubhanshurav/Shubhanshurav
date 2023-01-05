@@ -11,7 +11,9 @@
 </p>   
 <br> <br> -->
 
-<a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
+<!-- <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a> -->
+
+<img width = "20%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=92d" />
 
 
 ## I'm a CSE 3rd Year Student!!
