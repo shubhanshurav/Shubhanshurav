@@ -13,17 +13,14 @@
 
 <a href="https://github.com/shubhanshurav"><img width="28%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
 
-
 ## I'm a CSE 3rd Year Student!!
-<!-- <a href="https://app.daily.dev/shubhanshurav"><img width="20%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=yyf" width="400" alt="Shubhanshu Rao's Dev Card"/></a> -->
 
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
 - 📫 How to reach me shubhanshurao7037@gmail.com
 - 💬 Ask me about HTML,CSS or JavaScript
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects
-<br>
-<br>
+
 <br>
 
 # Enjoy jokes :)
@@ -95,12 +92,14 @@
 
 ## 📊Github Summary:
 
-<p><img align="right" height="280" width="34%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<p><img align="right" height="280" width="32%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
 <img width="65%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
-<br>
-<img height="auto" width="65%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
-<a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak" width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
+<a href="https://app.daily.dev/shubhanshurav"><img width="38%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=lz4" width="400" alt="Shubhanshu Rao's Dev Card"/></a>
+
+<img height="auto" width="60%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
+
+<a href="https://github.com/shubhanshurav"><img  alt="Shubhanshu's streak" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a>
 
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
