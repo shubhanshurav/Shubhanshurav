@@ -2,7 +2,6 @@
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
 
 # Hi, I'm Shubhanshu Rao (💻💖☕)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav)
 
 <!-- <p href="https://github.com/shubhanshurav">
@@ -10,7 +9,6 @@
    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
 </p>   
 <br> <br> -->
-
 
 ## I'm a CSE 3rd Year Student!!
 <a href="https://github.com/shubhanshurav"><img width="26%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a>
@@ -48,8 +46,6 @@
 <a href="mailto:shubhanshurao7037@gmail.com" target="blank">
     <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
-
-
 <br>
 <br>
 
