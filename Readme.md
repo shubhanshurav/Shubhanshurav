@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
-- 📫 How to reach me shubhanshurao7037@gmail.com
+- 📫 How to reach me shubhanshurao7037@gmail.com 
 - 💬 Ask me about HTML,CSS or JavaScript
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects
 <br>
