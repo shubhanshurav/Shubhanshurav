@@ -9,7 +9,7 @@
    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
 </p>   
 <br> <br> --> 
- 
+  
 ## I'm a CSE 3rd Year Student!!
 <a href="https://github.com/shubhanshurav"><img width="26%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a> 
 
