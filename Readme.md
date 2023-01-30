@@ -88,7 +88,7 @@
 ## 📊Github Summary:
 <p><a href="https://app.daily.dev/shubhanshurav"><img width="30%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=lz4" width="400" alt="Shubhanshu Rao's Dev Card"/></a>
 
-<p><img align="right" height="280" width="32%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<p><img align="left" height="280" width="32%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
 <img align ="left" width="65%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 
 <img height="auto" width="60%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
