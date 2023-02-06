@@ -12,7 +12,7 @@
   
 ## I'm a CSE 3rd Year Student!!
 <a href="https://github.com/shubhanshurav"><img width="26%" height="auto" align="right" src="https://user-images.githubusercontent.com/76244600/130684066-fb0b5e47-6c93-469e-ba45-7cb62833b965.png" /></a> 
-
+ 
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
 - 📫 How to reach me shubhanshurao7037@gmail.com 
