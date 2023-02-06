@@ -84,7 +84,7 @@
 
 ## 🎊GitHub Profile Tropfy
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
-
+ 
 ## 📊Github Summary:
 <p><a href="https://app.daily.dev/shubhanshurav"><img width="30%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=pf3" width="400" alt="Shubhanshu Rao's Dev Card"/></a></a>
 
