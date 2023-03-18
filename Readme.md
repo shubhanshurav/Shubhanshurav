@@ -4,7 +4,7 @@
 # Hi, I'm Shubhanshu Rao (💻💖☕)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) 
 
-<!-- <p href="https://github.com/shubhanshurav">
+<!-- <p href="https://github.com/shubhanshurav"> 
    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
 </p>        
