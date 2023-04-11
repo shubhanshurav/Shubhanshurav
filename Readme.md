@@ -86,9 +86,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
  
 ## 📊Github Summary:
-<p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=pf3" alt="Shubhanshu Rao's Dev Card"/></a>
+   
+<p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=qh1" alt="Shubhanshu Rao's Dev Card"/></a>
 
-<p><img align="right" height="auto" width="45%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<p><img align="right" height="auto" width="50%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
 <img align ="left" width="50%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 
 <img align ="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
