@@ -1,7 +1,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
    
-# Hi, I'm Shubhanshu Rao (💻💖☕)
+## Hi, I'm Shubhanshu Rao (💻💖☕)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) 
 
 <!-- <p href="https://github.com/shubhanshurav"> 
@@ -86,14 +86,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
  
 ## 📊Github Summary:
-<p><a href="https://app.daily.dev/shubhanshurav"><img width="30%" height="auto" align="right" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=pf3" width="400" alt="Shubhanshu Rao's Dev Card"/></a></a>
+<p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=pf3" alt="Shubhanshu Rao's Dev Card"/></a>
 
-<p><img align="left" height="280" width="32%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
-<img align ="left" width="65%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<p><img align="right" height="auto" width="45%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/>
+<img align ="left" width="50%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 
-<img height="auto" width="60%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
+<img align ="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
-<a href="https://github.com/shubhanshurav"><img alt="Shubhanshu's streak" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a></p>
+<a href="https://github.com/shubhanshurav"><img alt="Shubhanshu's streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a></p>
 
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
