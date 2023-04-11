@@ -1,7 +1,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
    
-## Hi, I'm Shubhanshu Rao (💻💖☕)
+# Hi, I'm Shubhanshu Rao (💻💖☕)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) 
 
 <!-- <p href="https://github.com/shubhanshurav"> 
@@ -20,7 +20,7 @@
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects 
 <br>
 
-# Enjoy jokes :)
+## Enjoy jokes :)
 <p align="center">
     <img align = "left" width="35%" src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
@@ -103,5 +103,6 @@
  
 <br>
 <hr>
- <h1><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao !<img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"> I hope, you will like this Repo✌😍</p> </h1>
+ <h2><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao ! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"><br></p> 
+   <p align = "center"> I hope, you will like this Repo✌😍</p> </h2>  
   
