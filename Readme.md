@@ -19,7 +19,7 @@
 - 💬 Ask me about HTML,CSS or JavaScript
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects 
 <br>
-
+ 
 ## Enjoy jokes :)
 <p align="center">
     <img align = "left" width="35%" src="https://readme-jokes.vercel.app/api"/>
