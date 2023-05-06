@@ -105,5 +105,5 @@
 <br>
 <hr> 
  <h2><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao ! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"><br></p> 
-   <p align = "center"> I hope, you will like this Repo✌😍</p> </h2>  
+<p align = "center"> I hope, you will like this Repo✌😍</p> </h2>  
     
