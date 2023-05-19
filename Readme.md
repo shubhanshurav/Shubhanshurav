@@ -21,7 +21,7 @@
 <br>
  
 ## Enjoy jokes :)
-<p align="center">
+<p align="center" height="auto">
     <img align = "left" width="auto" src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
    <img height  ="auto" width="34%" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" /> 
