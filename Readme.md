@@ -90,14 +90,15 @@
 <!-- [![shubhanshurao's GitHub | Stats](https://stats.quine.sh/shubhanshurao/github?theme=light)](https://quine.sh) -->
 <p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=qh1" alt="Shubhanshu Rao's Dev Card"/></a></p>
 
-<p><a href="https://quine.sh/profile/shubhanshurao"><img align="right" height="auto" width="50%" src="https://stats.quine.sh/shubhanshurao/github?theme=light"/></a></p>
+<p><a href="https://quine.sh/profile/shubhanshurao"><img align="right" height="auto" width="50%" src="https://stats.quine.sh/shubhanshurao/github?theme=light"/></a>
 <!-- <p><img align="right" height="auto" width="50%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/> -->
 <img align ="left" width="50%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+
 
 <img align ="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
 
 <a href="https://github.com/shubhanshurav"><img alt="Shubhanshu's streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhanshurav&theme=black-ice&hide_border=true&theme=radical&layout=compact" /> </a></p>
-
+ 
  
 [linkedin]: https://www.linkedin.com/in/shubhanshu-rao-052320208/
 [shubhanshu's github stats]: https://github-readme-stats.vercel.app/api?username=shubhanshurav
