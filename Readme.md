@@ -7,7 +7,7 @@
 <!-- <p href="https://github.com/shubhanshurav"> 
    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
    <img align="left" height="auto" width="47%" src="https://media.giphy.com/media/hx3VJAZMCaqVSOly3s/giphy.gif"/>
-</p>        
+</p>         
 <br>  -->
   
 ## I'm a CSE 3rd Year Student!!
