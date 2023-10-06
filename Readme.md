@@ -16,7 +16,7 @@
        
 - 🌱 I’m currently learning DSA and Web Development
 - 🔭 I’m currently working on Frontend projects
-- 📫 How to reach me shubhanshurao7037@gmail.com 
+- 📫 How to reach <a href="https://www.linkedin.com/in/shubhanshu-rao-052320208/">Visit on my LinkedIn Profile</a> 
 - 💬 Ask me about HTML,CSS or JavaScript
 - 👯‍♀️ I’m looking to collaborate on Web Dev Projects 
 <br>
