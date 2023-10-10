@@ -1,8 +1,11 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=shubhanshurav&color=brightgreen&style=flat-square)](https://github.com/shubhanshurav)
 <a><img src="https://img.shields.io/github/followers/shubhanshurav?label=Followers&style=social" alt="GitHub Badge"></a>
    
-# Hi, I'm Shubhanshu Rao (💻💖☕)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&bg_color=0D1117&size=31&width=1150&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍)](https://github.com/shubhanshurav) 
+<!-- # Hi, I'm Shubhanshu Rao (💻💖☕) -->
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=600&size=38&duration=7000&pause=1000&color=0074e4&height=100&width=1100&&lines=Hi,+I'm+Shubhanshu+Rao+and+Welcome+to+my+GitHub+Profile!..+🙏✌😍;Nice+to+meet+you...👍✌😍" alt="Typing SVG">
+</div>
+
 
 <!-- <p href="https://github.com/shubhanshurav">  
    <img align="center" height="auto" width="48%" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
@@ -108,6 +111,11 @@
  
 <br>
 <hr> 
- <h2><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao ! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"><br></p> 
-<p align = "center"> I hope, you will like this Repo✌😍</p> </h2>  
+<!--  <h2><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao ! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"><br></p> 
+<p align = "center"> I hope, you will like this Repo✌😍</p> </h2>   -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Shubhanshu+Rao..+🙏✌😍;I+hope+You+will+like+this+repo...👍✌😍" alt="Typing SVG">
+</div>
+
     
