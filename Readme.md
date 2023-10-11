@@ -51,7 +51,9 @@
 <a href="mailto:shubhanshurao7037@gmail.com" target="blank">
     <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
-<br>
+
+[![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)
+
 <br>
 
 ## Languages and Tools:
