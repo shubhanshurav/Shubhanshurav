@@ -35,15 +35,20 @@
  
 ## Connect with me:
 
+<a href="https://twitter.com/shubhanshu_rao" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80" alt="Twitter" align="center"></a>
+&ensp;
+<a href="https://www.linkedin.com/in/shubhanshu-rao-052320208/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
+
 <a href="https://www.facebook.com/shubhanshu.ravgautam/" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
+  <!--
 <a href="https://www.linkedin.com/in/shubhanshu-rao-052320208/" target="blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://twitter.com/shubhanshu_rao" target="blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  </a>   -->
   
 <a href="https://www.instagram.com/shubhanshu__rao/" target="blank">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
