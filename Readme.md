@@ -52,8 +52,6 @@
 </a>
 </div>
 
-[![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)
-
 <br>
 
 ## Languages and Tools:
@@ -90,7 +88,10 @@
 <br>
 
 ## 🎊GitHub Profile Tropfy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
+
+[![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)
  
 ## 📊Github Summary:
 <!-- [![shubhanshurao's GitHub | Stats](https://stats.quine.sh/shubhanshurao/github?theme=light)](https://quine.sh) -->
