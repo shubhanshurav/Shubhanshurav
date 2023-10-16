@@ -48,7 +48,7 @@
     <img align="left"  src="https://cdn0.iconfinder.com/data/icons/sociale-media/128/Instagram.png" height="80px" width="80px" align="center" />
   </a>
 <a href="mailto:shubhanshurao7037@gmail.com" target="_blank">
-    <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    <img align="left" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-64.png" height="80px" width="80px" align="center" /> 
 </a>
 </div>
 
