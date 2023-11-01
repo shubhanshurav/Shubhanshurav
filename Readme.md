@@ -28,7 +28,7 @@
 <p align="center" height="auto">
     <img align = "left" width="auto" src="https://readme-jokes.vercel.app/api"/>
    <img height="auto" width="35%" src="https://media.giphy.com/media/IPhL5ZvzvcGVWml71R/giphy.gif"/>
-   <img height  ="auto" width="34%" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" /> 
+<!--    <img height  ="auto" width="34%" align = "right" src ="https://quizizz.com/media/resource/gs/quizizz-media/quizzes/e8916ad5-f3a3-4bb1-89fe-0ea3ac700af7?w=600&h=600" />  -->
 </p>
 </br>
 <br>
@@ -91,15 +91,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=onedark)](https://github.com/shubhanhsurav/github-profile-trophy)
 
-[![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)
+<!-- [![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)  -->
  
 ## 📊Github Summary:
 <!-- [![shubhanshurao's GitHub | Stats](https://stats.quine.sh/shubhanshurao/github?theme=light)](https://quine.sh) -->
-<p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=qh1" alt="Shubhanshu Rao's Dev Card"/></a></p>
+<!-- <p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=qh1" alt="Shubhanshu Rao's Dev Card"/></a></p>  -->
 
-<p><a href="https://quine.sh/profile/shubhanshurao"><img align="right" height="auto" width="50%" src="https://stats.quine.sh/shubhanshurao/github?theme=dark"/></a>
+<p><a href="https://quine.sh/profile/shubhanshurao"><img align="" height="auto" width="48%" src="https://stats.quine.sh/shubhanshurao/github?theme=dark"/></a>
 <!-- <p><img align="right" height="auto" width="50%" src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif"/> -->
-<img align ="left" width="50%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
+<img align ="" height="auto" width="48%" alt="Shubhanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&hide_border=true&theme=radical" />&nbsp;</p>
 
 
 <img align ="right" height="auto" width="45%" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&hide_border=true&theme=radical&layout=compact" />
