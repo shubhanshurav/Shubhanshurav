@@ -82,7 +82,13 @@
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=028dd1">
-</a>   
+</a>  
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=TailwindCSS&svgfill=028dd1">
+</a> 
+<a href="https://github.com/shubhanshurav/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=028dd1">
+</a>  
 </p>
 
 <br>
