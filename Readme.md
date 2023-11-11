@@ -124,7 +124,7 @@
 <p align = "center"> I hope, you will like this Repo✌😍</p> </h2>   -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Shubhanshu+Rao..+🙏✌😍;I+hope+You+will+like+this+repo...👍✌😍" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Shubhanshu+Rao..+🙏✌😍;I+hope+You+will+follow+me+...👍✌😍" alt="Typing SVG">
 </div>
 
     
