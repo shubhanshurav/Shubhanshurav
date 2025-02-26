@@ -60,35 +60,41 @@ I'm Shubhanshu Rao from India.
 <a href="https://github.com/shubhanshurav/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
+<a href="https://github.com/shubhanshurav/readme-components">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">
+</a>
+<a href="https://github.com/shubhanshurav/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&animation=spin&svgfill=15d8fe">  
+ </a>
   <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Git&svgfill=8ed5fa">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Git&animation=spin&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/shubhanshurav/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&animation=spin&svgfill=659b60">
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&animation=spin&svgfill=df5c43">  
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&animation=spin&svgfill=cd6799">
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&animation=spin&svgfill=f6df1c">
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&animation=spin&svgfill=028dd1">
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&animation=spin&logo=github">
 </a>
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Bootstrap&animation=spin&svgfill=028dd1">
 </a>  
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=TailwindCSS&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=TailwindCSS&animation=spin&svgfill=028dd1">
 </a> 
 <a href="https://github.com/shubhanshurav/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&svgfill=028dd1">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB&animation=spin&svgfill=028dd1">
 </a>  
 </p>
 
