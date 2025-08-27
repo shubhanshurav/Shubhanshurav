@@ -1,0 +1,97 @@
+name: 🐍 Ultimate GitHub Snake Game
+
+on:
+  # Schedule the workflow to run every 6 hours for more frequent updates
+  schedule:
+    - cron: "0 */6 * * *"
+  
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  
+  # Trigger on pushes to main/master branches
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  generate-snake-animations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Generate multiple unique snake animations
+      - name: 🎨 Generate Shubhanshu's Ultimate Snake Collection
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shubhanshurav
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/neon-snake.svg?color_snake=%23ff006e&color_dots=%23f72585,%23b5179e,%237209b7,%232d1b69,%23240046
+            dist/ocean-wave.gif?color_snake=%2300f5ff&color_dots=%23e0aaff,%23c77dff,%23a663cc,%23560bad,%23480ca8
+            dist/fire-snake.gif?color_snake=%23ff4500&color_dots=%23ffba08,%23faa307,%23f48c06,%23e85d04,%23dc2f02
+            dist/matrix-snake.gif?color_snake=%2300ff41&color_dots=%23003b00,%23008f11,%2300ff41,%23008f11,%23003b00
+            dist/galaxy-snake.gif?color_snake=%237b2cbf&color_dots=%2306ffa5,%2336eee0,%237209b7,%23f72585,%23560bad
+            dist/rainbow-snake.gif?color_snake=%23ff006e&color_dots=%23ff006e,%23fb8500,%23ffb700,%23219ebc,%238ecae6
+            dist/cyberpunk-snake.svg?color_snake=%23ff0080&color_dots=%23000000,%23ff0080,%2300ffff,%23ff0080,%23000000
+            dist/retro-wave.gif?color_snake=%23ff10f0&color_dots=%23f72585,%23b5179e,%237209b7,%23480ca8,%230f0f23
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 3: Generate special themed versions
+      - name: 🚀 Generate Special Edition Snakes
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shubhanshurav
+          outputs: |
+            dist/golden-snake.svg?color_snake=%23ffd700&color_dots=%23fff3cd,%23fff3cd,%23ffeaa7,%23fdcb6e,%23f39c12
+            dist/ice-snake.gif?color_snake=%2300d4ff&color_dots=%23dbeafe,%23bfdbfe,%2393c5fd,%2360a5fa,%233b82f6
+            dist/emerald-snake.gif?color_snake=%2310b981&color_dots=%23d1fae5,%23a7f3d0,%236ee7b7,%2334d399,%2310b981
+            dist/sunset-snake.gif?color_snake=%23f59e0b&color_dots=%23fed7aa,%23fdba74,%23fb923c,%23f97316,%23ea580c
+            dist/midnight-snake.svg?color_snake=%236366f1&color_dots=%231e1b4b,%23312e81,%235b21b6,%237c3aed,%23a855f7
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Deploy to multiple branches for different themes
+      - name: 🚀 Deploy Snake Collection to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main'
+        with:
+          target_branch: output
+          build_dir: dist
+          committer: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          commit_message: "🐍 Update Ultimate Snake Collection [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 5: Create a summary of generated snakes
+      - name: 📊 Generate Snake Collection Summary
+        run: |
+          echo "🐍 **Shubhanshu's Ultimate Snake Collection Generated!**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🎨 Available Snake Animations:" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌟 **Classic Snake**: github-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌙 **Dark Mode Snake**: github-snake-dark.svg" >> $GITHUB_STEP_SUMMARY
+          echo "- 💜 **Neon Snake**: neon-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌊 **Ocean Wave**: ocean-wave.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🔥 **Fire Snake**: fire-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 💚 **Matrix Snake**: matrix-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌌 **Galaxy Snake**: galaxy-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌈 **Rainbow Snake**: rainbow-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🎮 **Cyberpunk Snake**: cyberpunk-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌅 **Retro Wave**: retro-wave.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🏆 **Golden Snake**: golden-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "- ❄️ **Ice Snake**: ice-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 💎 **Emerald Snake**: emerald-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌇 **Sunset Snake**: sunset-snake.gif" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌃 **Midnight Snake**: midnight-snake.svg" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "🎯 **Total Generated**: 15 unique snake animations!" >> $GITHUB_STEP_SUMMARY
