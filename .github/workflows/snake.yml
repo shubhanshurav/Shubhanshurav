@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
+  workflow_dispatch:       # allow manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Generate the snake svgs
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shubhanshurav
+          # We'll output multiple variants (light/dark + custom green palette)
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-green.svg?color_snake=%23216e39&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
+
+      # Publish to a branch so we can embed raw URLs in README
+      - name: Publish to GitHub Pages-like branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

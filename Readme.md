@@ -130,6 +130,9 @@ I'm Shubhanshu Rao from India.
 <!--  <h2><p align ="center"> Design ❤️ By <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px"> Shubhanshu Rao ! <img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="25px"><br></p> 
 <p align = "center"> I hope, you will like this Repo✌😍</p> </h2>   -->
 
+<!-- Dark mode -->
+![GitHub Snake Dark](https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/snake-dark.svg#gh-dark-mode-only)
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&height=70&weight=500&size=30&duration=5000&pause=1000&color=ffd700&width=700&lines=Design+❤️+By+Shubhanshu+Rao..+🙏✌😍;I+hope+You+will+follow+me+...👍✌😍" alt="Typing SVG">
 </div>
