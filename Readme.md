@@ -106,7 +106,40 @@ I'm Shubhanshu Rao from India.
 
 <!-- [![Hacktober Fest profile](https://holopin.me/shubhanshurav)](https://holopin.io/@shubhanshurav)  -->
  
-## 📊Github Summary:
+## � Ultimate Snake Collection - My GitHub Activity Visualization
+
+<div align="center">
+  
+### 🌟 Classic & Dark Mode
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/github-snake.svg" alt="Classic Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/github-snake-dark.svg" alt="Dark Snake" />
+
+### 🔥 Fire & Matrix Themes
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/fire-snake.gif" alt="Fire Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/matrix-snake.gif" alt="Matrix Snake" />
+
+### 🌊 Ocean Wave & Galaxy Themes
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/ocean-wave.gif" alt="Ocean Wave Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/galaxy-snake.gif" alt="Galaxy Snake" />
+
+### 🌈 Rainbow & Neon Themes
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/rainbow-snake.gif" alt="Rainbow Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/neon-snake.svg" alt="Neon Snake" />
+
+### 🎮 Cyberpunk & Retro Wave
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/cyberpunk-snake.svg" alt="Cyberpunk Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/retro-wave.gif" alt="Retro Wave Snake" />
+
+### 🏆 Special Edition Collection
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/golden-snake.svg" alt="Golden Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/ice-snake.gif" alt="Ice Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/emerald-snake.gif" alt="Emerald Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/sunset-snake.gif" alt="Sunset Snake" />
+<img src="https://raw.githubusercontent.com/shubhanshurav/shubhanshurav/output/midnight-snake.svg" alt="Midnight Snake" />
+
+</div>
+
+---
 <!-- [![shubhanshurao's GitHub | Stats](https://stats.quine.sh/shubhanshurao/github?theme=light)](https://quine.sh) -->
 <!-- <p><a href="https://app.daily.dev/shubhanshurav"><img width="40%" height="auto" align="left" src="https://api.daily.dev/devcards/a96d6d09d0e246c1bab6864372051f8c.png?r=qh1" alt="Shubhanshu Rao's Dev Card"/></a></p>  -->
 
