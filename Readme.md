@@ -1,6 +1,6 @@
 <!-- ============================= BANNER ============================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00994d,100:00FF9C&height=230&section=header&text=SHUBHANSHU%20RAO&fontSize=52&fontColor=00FF9C&animation=twinkling&desc=%3E_%20Software%20Engineer%20%2F%2F%20Full-Stack%20%2B%20Mobile%20%2B%20Backend&descSize=16&descAlignY=75" alt="banner" />
+  <img src="./banner.svg" alt="Shubhanshu Rao — Software Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -51,20 +51,32 @@
 <!-- ============================= PROJECTS ============================= -->
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/shubhanshurav/Interview-Preparation-Notes">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=Interview-Preparation-Notes&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="Interview Preparation Notes" />
-  </a>
-  <a href="https://github.com/shubhanshurav/DOT-BATCH">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=DOT-BATCH&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="DOT Batch Notes" />
-  </a>
-  <a href="https://github.com/shubhanshurav/NetflixGPT">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=NetflixGPT&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="NetflixGPT" />
-  </a>
-  <a href="https://github.com/shubhanshurav/e-Shopping-store">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=e-Shopping-store&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="e-Shopping Store" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/shubhanshurav/Interview-Preparation-Notes">
+        <img src="./card-interview-notes.svg" width="100%" alt="Interview Preparation Notes — 315+ stars" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/shubhanshurav/DOT-BATCH">
+        <img src="./card-dot-batch.svg" width="100%" alt="DOT Batch Notes" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/shubhanshurav/NetflixGPT">
+        <img src="./card-netflixgpt.svg" width="100%" alt="NetflixGPT" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/shubhanshurav/e-Shopping-store">
+        <img src="./card-eshop.svg" width="100%" alt="e-Shopping Store" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <sub>
@@ -93,21 +105,19 @@
 <!-- ============================= STATS ============================= -->
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhanshurav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="stats" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="top langs" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhanshurav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" width="100%" alt="GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&card_width=450" width="100%" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.vercel.app?user=shubhanshurav&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhanshurav&theme=github_dark" alt="profile summary" />
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhanshurav&theme=github_dark" alt="commit langs" />
-  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhanshurav&theme=github_dark&utcOffset=5.5" alt="productive time" />
+  <img width="70%" src="https://streak-stats.vercel.app?user=shubhanshurav&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="contribution streak" />
 </div>
 
 <!-- ============================= ACTIVITY GRAPH ============================= -->
