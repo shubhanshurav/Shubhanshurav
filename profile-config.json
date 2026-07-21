@@ -18,8 +18,7 @@
     "command": "systemctl status career.service",
     "title": "career.service — Software Engineer @ Zarle Infotech",
     "fields": [
-      { "label": "Active", "highlight": "active (running)", "text": " since Jan 2025 — 1.5+ yrs uptime" },
-     
+      { "label": "Active", "highlight": "active (running)", "text": " since Jan 2025 — 1.5+ yrs uptime" }
     ]
   }
 }
