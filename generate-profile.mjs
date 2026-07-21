@@ -172,7 +172,36 @@ ${body}
 `;
 };
 
-const config = JSON.parse(await readFile('profile-config.json', 'utf8'));
+const parseConfig = (raw) => {
+  const withoutTrailingCommas = raw.replace(/,(\s*[\]}])/g, '$1');
+  try {
+    return JSON.parse(withoutTrailingCommas);
+  } catch (err) {
+    console.error('error: profile-config.json is not valid JSON — check quotes, commas and brackets.');
+    console.error(err.message);
+    process.exit(1);
+  }
+};
+
+const validateConfig = (config) => {
+  const fail = (msg) => {
+    console.error(`error: profile-config.json — ${msg}`);
+    process.exit(1);
+  };
+  if (!config.about || typeof config.about !== 'object') fail('"about" section is missing');
+  if (!config.experience || typeof config.experience !== 'object') fail('"experience" section is missing');
+  if (!Array.isArray(config.experience.fields) || config.experience.fields.length === 0) {
+    fail('"experience.fields" must be a non-empty array');
+  }
+  for (const field of config.experience.fields) {
+    if (!field.label || typeof field.text !== 'string') {
+      fail(`each experience field needs a "label" and a "text" — broken entry: ${JSON.stringify(field)}`);
+    }
+  }
+};
+
+const config = parseConfig(await readFile('profile-config.json', 'utf8'));
+validateConfig(config);
 
 await writeFile('about.svg', generateAbout(config.about));
 console.log('generated about.svg');
