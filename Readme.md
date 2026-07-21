@@ -8,9 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhanshurav&label=visitors&color=00ff9c&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/github/followers/shubhanshurav?label=followers&style=flat-square&color=00ff9c" alt="followers" />
-  <img src="https://img.shields.io/badge/status-open__to__work-00ff9c?style=flat-square" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=shubhanshurav&label=visitors&color=00ff9c&style=flat-square" height="24" alt="profile visitors" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/shubhanshurav?label=followers&style=flat-square&color=00ff9c&logo=github&logoColor=white" height="24" alt="followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/status-open%20to%20work-00ff9c?style=flat-square" height="24" alt="open to work" />
 </div>
 
 <br/>
@@ -18,35 +20,19 @@
 <!-- ============================= NEOFETCH ============================= -->
 ## 👨‍💻 About Me
 
-```console
-             shubhanshu@github
-██████████   ─────────────────────────────────────────────────
-██  ██  ██   Role........: Software Engineer @ Zarle Infotech
-██████████   Uptime......: shipping code since 2021
-██  ██  ██   Focus.......: Full-Stack · Mobile · Backend · Cloud
-██████████   Languages...: TypeScript · JavaScript · C++
-██  ██  ██   Stack.......: Next.js · React Native · Node.js · Express
-██████████   Data........: MongoDB · Firestore · MySQL
-██  ██  ██   Learning....: System Design · AWS · Docker · Terraform
-██████████   Kernel......: clean architecture · reliable APIs
-             Shell.......: production-ready > clever
-```
+<div align="center">
+  <img src="./about.svg" width="100%" alt="about-me.ts — role, stack, open source and philosophy" />
+</div>
 
-- 💼 &nbsp;Shipping full-stack products end to end — web, mobile, CRM & admin panels
 - 📈 &nbsp;**315+ ⭐** on my [DSA Interview Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes) — used by devs prepping for tech interviews
-- 🏗️ &nbsp;Currently building a production insurance-tech platform — quote journeys, insurer & vehicle-data API integrations, CRM
-- 🌱 &nbsp;Deep-diving into system design, AWS, Docker & Terraform
+- 💼 &nbsp;Shipping full-stack products end to end — web, mobile, CRM & admin panels
 
 <!-- ============================= EXPERIENCE ============================= -->
 ## 💼 Experience
 
-**Software Engineer — [Zarle Infotech](https://www.zarleinfotech.com)** &nbsp;·&nbsp; `Jan 2025 → present`
-
-```bash
-> building   full-stack insurance platform — Next.js storefront, Node.js/Express APIs, Firestore
-> shipping   multi-step quote journeys, KYC & vehicle-lookup integrations, CRM & admin panels
-> owning     features end to end — schema design → REST APIs → UI → deployment
-```
+<a href="https://www.zarleinfotech.com">
+  <img src="./experience.svg" width="100%" alt="Software Engineer at Zarle Infotech — active since Jan 2025" />
+</a>
 
 <!-- ============================= PROJECTS ============================= -->
 ## 🚀 Featured Projects
