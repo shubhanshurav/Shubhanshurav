@@ -53,16 +53,16 @@
 
 <div align="center">
   <a href="https://github.com/shubhanshurav/Interview-Preparation-Notes">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=Interview-Preparation-Notes&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="Interview Preparation Notes" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=Interview-Preparation-Notes&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="Interview Preparation Notes" />
   </a>
   <a href="https://github.com/shubhanshurav/DOT-BATCH">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=DOT-BATCH&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="DOT Batch Notes" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=DOT-BATCH&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="DOT Batch Notes" />
   </a>
   <a href="https://github.com/shubhanshurav/NetflixGPT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=NetflixGPT&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="NetflixGPT" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=NetflixGPT&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="NetflixGPT" />
   </a>
   <a href="https://github.com/shubhanshurav/e-Shopping-store">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=e-Shopping-store&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="e-Shopping Store" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=shubhanshurav&repo=e-Shopping-store&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="e-Shopping Store" />
   </a>
 </div>
 
@@ -94,12 +94,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="top langs" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shubhanshurav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="stats" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shubhanshurav&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="top langs" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=shubhanshurav&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="streak" />
+  <img width="60%" src="https://streak-stats.vercel.app?user=shubhanshurav&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="streak" />
 </div>
 
 <br/>
