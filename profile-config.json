@@ -19,9 +19,7 @@
     "title": "career.service — Software Engineer @ Zarle Infotech",
     "fields": [
       { "label": "Active", "highlight": "active (running)", "text": " since Jan 2025 — 1.5+ yrs uptime" },
-      { "label": "Stack", "text": "Next.js · Node.js/Express · Firestore · REST APIs" },
-      { "label": "Scope", "text": "quote journeys · KYC & vehicle-lookup integrations · CRM & admin panels" },
-      { "label": "Owning", "text": "schema design → REST APIs → UI → deployment (end to end)" }
+     
     ]
   }
 }
