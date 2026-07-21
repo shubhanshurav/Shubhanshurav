@@ -1,0 +1,36 @@
+<svg width="900" height="253" viewBox="0 0 900 253" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  </style>
+
+  <rect x="1" y="1" width="898" height="251" rx="14" fill="#0D1117" stroke="#00FF9C" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <path d="M1 15 A14 14 0 0 1 15 1 H885 A14 14 0 0 1 899 15 V40 H1 Z" fill="#161B22"/>
+  <line x1="1" y1="40" x2="899" y2="40" stroke="#00FF9C" stroke-opacity="0.15" stroke-width="1"/>
+
+  <circle cx="26" cy="20" r="6.5" fill="#FF5F56"/>
+  <circle cx="48" cy="20" r="6.5" fill="#FFBD2E"/>
+  <circle cx="70" cy="20" r="6.5" fill="#27C93F"/>
+
+  <text x="450" y="24" text-anchor="middle" class="mono" font-size="13" fill="#8B949E">career — systemctl</text>
+
+  <text x="32" y="74" class="mono" font-size="15" font-weight="600">
+    <tspan fill="#00FF9C">$</tspan><tspan fill="#C9D1D9"> systemctl status career.service</tspan>
+  </text>
+
+  <circle cx="40" cy="107" r="6" fill="#00FF9C" class="pulse"/>
+  <text x="54" y="112" class="mono" font-size="16" font-weight="700">
+    <tspan fill="#E6EDF3">career.service — Software Engineer @ Zarle Infotech</tspan>
+  </text>
+
+  <text x="112" y="145" text-anchor="end" class="mono" font-size="14" fill="#8B949E">Active:</text>
+  <text x="122" y="145" class="mono" font-size="14"><tspan fill="#00FF9C" font-weight="700">active (running)</tspan><tspan fill="#C9D1D9"> since Jan 2025 — 1.5+ yrs uptime</tspan></text>
+  <text x="112" y="172" text-anchor="end" class="mono" font-size="14" fill="#8B949E">Stack:</text>
+  <text x="122" y="172" class="mono" font-size="14"><tspan fill="#C9D1D9">Next.js · Node.js/Express · Firestore · REST APIs</tspan></text>
+  <text x="112" y="199" text-anchor="end" class="mono" font-size="14" fill="#8B949E">Scope:</text>
+  <text x="122" y="199" class="mono" font-size="14"><tspan fill="#C9D1D9">quote journeys · KYC &amp; vehicle-lookup integrations · CRM &amp; admin panels</tspan></text>
+  <text x="112" y="226" text-anchor="end" class="mono" font-size="14" fill="#8B949E">Owning:</text>
+  <text x="122" y="226" class="mono" font-size="14"><tspan fill="#C9D1D9">schema design → REST APIs → UI → deployment (end to end)</tspan></text>
+</svg>

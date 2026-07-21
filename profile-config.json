@@ -1,0 +1,27 @@
+{
+  "about": {
+    "role": "Software Engineer @ Zarle Infotech",
+    "location": "India",
+    "building": "PolicyWings — insurance-tech platform",
+    "openSource": "315+ ⭐ on DSA interview notes",
+    "stack": {
+      "languages": ["TypeScript", "JavaScript", "C++"],
+      "frontend": ["Next.js", "React Native", "Redux", "Tailwind"],
+      "backend": ["Node.js", "Express", "Firebase", "REST APIs"],
+      "databases": ["MongoDB", "Firestore", "MySQL"]
+    },
+    "learning": ["System Design", "AWS", "Docker", "Terraform"],
+    "philosophy": "production-ready > clever"
+  },
+  "experience": {
+    "windowTitle": "career — systemctl",
+    "command": "systemctl status career.service",
+    "title": "career.service — Software Engineer @ Zarle Infotech",
+    "fields": [
+      { "label": "Active", "highlight": "active (running)", "text": " since Jan 2025 — 1.5+ yrs uptime" },
+      { "label": "Stack", "text": "Next.js · Node.js/Express · Firestore · REST APIs" },
+      { "label": "Scope", "text": "quote journeys · KYC & vehicle-lookup integrations · CRM & admin panels" },
+      { "label": "Owning", "text": "schema design → REST APIs → UI → deployment (end to end)" }
+    ]
+  }
+}
