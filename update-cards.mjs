@@ -2,7 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 
 const OWNER = 'shubhanshurav';
 
-const CARDS = [
+const CARDS = [ 
   { file: 'card-interview-notes.svg', repo: 'Interview-Preparation-Notes' },
   { file: 'card-dot-batch.svg', repo: 'DOT-BATCH' },
   { file: 'card-netflixgpt.svg', repo: 'NetflixGPT' },
