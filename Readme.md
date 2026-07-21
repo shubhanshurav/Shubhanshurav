@@ -1,93 +1,97 @@
 <!-- ============================= BANNER ============================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF9C&height=190&section=header&text=Shubhanshu%20Rao&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3E_%20Software%20Engineer%20%2F%2F%20Full-Stack%20%2B%20Mobile%20%2B%20Backend&descAlignY=58&descSize=16" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00994d,100:00FF9C&height=230&section=header&text=SHUBHANSHU%20RAO&fontSize=52&fontColor=00FF9C&animation=twinkling&desc=%3E_%20Software%20Engineer%20%2F%2F%20Full-Stack%20%2B%20Mobile%20%2B%20Backend&descSize=16&descAlignY=75" alt="banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=45&lines=Software+Engineer+%40+Zarle+Infotech;Full-Stack+%2F%2F+Mobile+%2F%2F+Backend+%2F%2F+Cloud;while+(alive)+%7B+code()%3B+ship()%3B+learn()%3B+%7D" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=760&height=45&lines=Software+Engineer+%40+Zarle+Infotech;Full-Stack+%2F%2F+Mobile+%2F%2F+Backend+%2F%2F+Cloud;315%2B+stars+on+open-source+DSA+notes;while+(alive)+%7B+code()%3B+ship()%3B+learn()%3B+%7D" alt="typing" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shubhanshurav&label=visitors&color=00ff9c&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/shubhanshurav?label=followers&style=flat-square&color=00ff9c" alt="followers" />
+  <img src="https://img.shields.io/badge/status-open__to__work-00ff9c?style=flat-square" alt="status" />
 </div>
 
 <br/>
 
-<!-- ============================= WHOAMI ============================= -->
-## `$ whoami`
+<!-- ============================= NEOFETCH ============================= -->
+## 👨‍💻 About Me
 
-```ts
-const shubhanshu: SoftwareEngineer = {
-  role:      "Software Engineer @ Zarle Infotech",
-  location:  "India",
-  focus:     ["Full-Stack", "Mobile", "Backend", "Cloud & DevOps"],
-  languages: ["TypeScript", "JavaScript", "C++"],
-  stack:     ["Next.js", "React Native", "Node.js", "Express", "Firebase"],
-  databases: ["MongoDB", "Firestore", "MySQL"],
-  learning:  ["System Design", "AWS", "Docker", "Terraform"],
-  mindset:   "clean architecture · reliable APIs · production-ready",
-};
+```console
+             shubhanshu@github
+██████████   ─────────────────────────────────────────────────
+██  ██  ██   Role........: Software Engineer @ Zarle Infotech
+██████████   Uptime......: shipping code since 2021
+██  ██  ██   Focus.......: Full-Stack · Mobile · Backend · Cloud
+██████████   Languages...: TypeScript · JavaScript · C++
+██  ██  ██   Stack.......: Next.js · React Native · Node.js · Express
+██████████   Data........: MongoDB · Firestore · MySQL
+██  ██  ██   Learning....: System Design · AWS · Docker · Terraform
+██████████   Kernel......: clean architecture · reliable APIs
+             Shell.......: production-ready > clever
 ```
 
-> I build web apps, mobile apps, CRM systems, and admin panels end to end — React & React Native on the front, Node.js & Express on the back, wired to MongoDB and Firestore. I care about maintainable architecture, predictable REST APIs, and code that holds up in production.
+- 💼 &nbsp;Shipping full-stack products end to end — web, mobile, CRM & admin panels
+- 📈 &nbsp;**315+ ⭐** on my [DSA Interview Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes) — used by devs prepping for tech interviews
+- 🏗️ &nbsp;Currently building a production insurance-tech platform — quote journeys, insurer & vehicle-data API integrations, CRM
+- 🌱 &nbsp;Deep-diving into system design, AWS, Docker & Terraform
 
-<!-- ============================= STACK ============================= -->
-## `$ cat tech-stack.md`
+<!-- ============================= EXPERIENCE ============================= -->
+## 💼 Experience
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-025E8C?style=for-the-badge&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-<!-- ============================= FOCUS ============================= -->
-## `$ ./current-focus.sh`
+**Software Engineer — [Zarle Infotech](https://www.zarleinfotech.com)** &nbsp;·&nbsp; `Jan 2025 → present`
 
 ```bash
-> building    full-stack web & cross-platform mobile products at Zarle Infotech
-> exploring   cloud & DevOps — AWS, Docker, Terraform, CI/CD pipelines
-> studying    system design & scalable backend architecture
+> building   full-stack insurance platform — Next.js storefront, Node.js/Express APIs, Firestore
+> shipping   multi-step quote journeys, KYC & vehicle-lookup integrations, CRM & admin panels
+> owning     features end to end — schema design → REST APIs → UI → deployment
 ```
 
+<!-- ============================= PROJECTS ============================= -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/shubhanshurav/Interview-Preparation-Notes">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=Interview-Preparation-Notes&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="Interview Preparation Notes" />
+  </a>
+  <a href="https://github.com/shubhanshurav/DOT-BATCH">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=DOT-BATCH&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="DOT Batch Notes" />
+  </a>
+  <a href="https://github.com/shubhanshurav/NetflixGPT">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=NetflixGPT&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="NetflixGPT" />
+  </a>
+  <a href="https://github.com/shubhanshurav/e-Shopping-store">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhanshurav&repo=e-Shopping-store&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&icon_color=00FF9C&hide_border=true" alt="e-Shopping Store" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>
+    live demos → <a href="https://shubhanshu-netflixgpt.vercel.app/">NetflixGPT</a> ·
+    <a href="https://e-shopping-store.vercel.app/">e-Shopping Store</a> ·
+    <a href="https://edtech-iet.vercel.app/">TecLearn</a> ·
+    <a href="https://shubhanshu-youtube.vercel.app/">YouTube Clone</a>
+  </sub>
+</div>
+
+<!-- ============================= STACK ============================= -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nextjs,redux,tailwind,nodejs,express,firebase&theme=dark&perline=10" alt="skills row 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,gcp,aws,docker,terraform,githubactions,git,postman,vercel&theme=dark&perline=10" alt="skills row 2" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><code>+ React Native · REST APIs · shadcn/ui · Firestore · CI/CD</code></sub>
+</div>
+
 <!-- ============================= STATS ============================= -->
-## `$ git stats --all`
+## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhanshurav&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="stats" />
@@ -98,22 +102,56 @@ const shubhanshu: SoftwareEngineer = {
   <img width="60%" src="https://streak-stats.demolab.com?user=shubhanshurav&hide_border=true&background=0D1117&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8B949E" alt="streak" />
 </div>
 
-## `$ git log --graph`
+<br/>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhanshurav&theme=github_dark" alt="profile summary" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubhanshurav&theme=github_dark" alt="commit langs" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shubhanshurav&theme=github_dark&utcOffset=5.5" alt="productive time" />
+</div>
+
+<!-- ============================= ACTIVITY GRAPH ============================= -->
+## 📈 Contribution Activity
 
 <div align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhanshurav&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&title_color=00FF9C&hide_border=true" alt="activity graph" />
 </div>
 
-## `$ ls trophies/`
+<!-- ============================= SNAKE ============================= -->
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhanshurav&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhanshurav/Shubhanshurav/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/shubhanshurav/Shubhanshurav/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
+  </picture>
+</div>
+
+<!-- ============================= TROPHIES ============================= -->
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=shubhanshurav&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+</div>
+
+<!-- ============================= FORTUNE ============================= -->
+## 💬 Dev Humor
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="dev quote" />
+</div>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230D1117&borderColor=%230D1117&qColor=%2300FF9C&aColor=%2300FF9C&textColor=%23C9D1D9&codeColor=%2300FF9C" alt="dev joke" />
 </div>
 
 <!-- ============================= CONNECT ============================= -->
-## `$ ./connect.sh`
+## 🤝 Connect With Me
 
 <div align="center">
+  <a href="https://shubhanshu-rao-resume.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/shubhanshu-rao-052320208/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
