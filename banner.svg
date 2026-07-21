@@ -1,0 +1,46 @@
+<svg width="900" height="250" viewBox="0 0 900 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .mono { font-family: "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .fade1 { opacity: 0; animation: fadeIn 0.4s ease 0.4s forwards; }
+    .fade2 { opacity: 0; animation: fadeIn 0.5s ease 1.0s forwards; }
+    .fade3 { opacity: 0; animation: fadeIn 0.5s ease 1.6s forwards; }
+    .fade4 { opacity: 0; animation: fadeIn 0.4s ease 2.2s forwards; }
+    .cursor { animation: blink 1.1s step-end infinite; }
+    @keyframes fadeIn { to { opacity: 1; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="898" height="248" rx="14" fill="#0D1117" stroke="#00FF9C" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <path d="M1 15 A14 14 0 0 1 15 1 H885 A14 14 0 0 1 899 15 V38 H1 Z" fill="#161B22"/>
+  <line x1="1" y1="38" x2="899" y2="38" stroke="#00FF9C" stroke-opacity="0.15" stroke-width="1"/>
+
+  <circle cx="26" cy="20" r="6.5" fill="#FF5F56"/>
+  <circle cx="48" cy="20" r="6.5" fill="#FFBD2E"/>
+  <circle cx="70" cy="20" r="6.5" fill="#27C93F"/>
+
+  <text x="450" y="24" text-anchor="middle" class="mono" font-size="13" fill="#8B949E">shubhanshu@dev — zsh</text>
+
+  <g class="fade1">
+    <text x="36" y="82" class="mono" font-size="16" font-weight="600">
+      <tspan fill="#00FF9C">shubhanshu@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#C9D1D9">$ whoami</tspan>
+    </text>
+  </g>
+
+  <g class="fade2">
+    <text x="36" y="138" class="mono" font-size="46" font-weight="700" fill="#E6EDF3">Shubhanshu Rao</text>
+  </g>
+
+  <g class="fade3">
+    <text x="36" y="176" class="mono" font-size="19" font-weight="600">
+      <tspan fill="#8B949E">&gt;</tspan><tspan fill="#00FF9C"> Software Engineer</tspan><tspan fill="#8B949E"> // </tspan><tspan fill="#C9D1D9">Full-Stack · Mobile · Backend</tspan>
+    </text>
+  </g>
+
+  <g class="fade4">
+    <text x="36" y="221" class="mono" font-size="16" font-weight="600">
+      <tspan fill="#00FF9C">shubhanshu@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#58A6FF">~</tspan><tspan fill="#C9D1D9">$</tspan>
+    </text>
+    <rect x="215" y="206" width="11" height="20" fill="#00FF9C" class="cursor"/>
+  </g>
+</svg>
