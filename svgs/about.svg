@@ -19,7 +19,6 @@
   <rect x="114" y="15" width="16" height="16" rx="3" fill="#3178C6"/>
   <text x="122" y="27" text-anchor="middle" class="mono" font-size="9" font-weight="700" fill="#FFFFFF">TS</text>
   <text x="140" y="27" class="mono" font-size="13" fill="#E6EDF3">about-me.ts</text>
-  <text x="290" y="27" class="mono" font-size="13" fill="#8B949E">career.json</text>
 
   <text x="44" y="74" text-anchor="end" class="mono" font-size="13" fill="#6E7681">1</text>
   <text x="70" y="74" class="mono" font-size="15"><tspan fill="#FF7B72">const</tspan><tspan fill="#79C0FF"> shubhanshu</tspan><tspan fill="#C9D1D9"> = {</tspan></text>
