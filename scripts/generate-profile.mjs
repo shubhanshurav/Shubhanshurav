@@ -203,8 +203,8 @@ const validateConfig = (config) => {
 const config = parseConfig(await readFile('profile-config.json', 'utf8'));
 validateConfig(config);
 
-await writeFile('about.svg', generateAbout(config.about));
-console.log('generated about.svg');
+await writeFile('svgs/about.svg', generateAbout(config.about));
+console.log('generated svgs/about.svg');
 
-await writeFile('experience.svg', generateExperience(config.experience));
-console.log('generated experience.svg');
+await writeFile('svgs/experience.svg', generateExperience(config.experience));
+console.log('generated svgs/experience.svg');

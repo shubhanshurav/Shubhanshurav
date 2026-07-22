@@ -1,6 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const OWNER = 'shubhanshurav';
+const SVG_DIR = 'svgs';
 
 const CARDS = [ 
   { file: 'card-interview-notes.svg', repo: 'Interview-Preparation-Notes' },
@@ -38,7 +39,8 @@ let failures = 0;
 for (const { file, repo } of CARDS) {
   try {
     const data = await fetchRepo(repo);
-    const original = await readFile(file, 'utf8');
+    const path = `${SVG_DIR}/${file}`;
+    const original = await readFile(path, 'utf8');
 
     const withStars = setStat(original, 'stars', formatCount(data.stargazers_count));
     if (!withStars) {
@@ -49,10 +51,10 @@ for (const { file, repo } of CARDS) {
     const updated = withForks ?? withStars;
 
     if (updated !== original) {
-      await writeFile(file, updated);
-      console.log(`updated ${file}: stars=${data.stargazers_count} forks=${data.forks_count}`);
+      await writeFile(path, updated);
+      console.log(`updated ${path}: stars=${data.stargazers_count} forks=${data.forks_count}`);
     } else {
-      console.log(`unchanged ${file}`);
+      console.log(`unchanged ${path}`);
     }
   } catch (err) {
     failures += 1;

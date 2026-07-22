@@ -1,6 +1,6 @@
 <!-- ============================= BANNER ============================= -->
 <div align="center">
-  <img src="./banner.svg" alt="Shubhanshu Rao — Software Engineer" width="100%" />
+  <img src="./svgs/banner.svg" alt="Shubhanshu Rao — Software Engineer" width="100%" />
 </div>
 
 <div align="center">
@@ -18,47 +18,49 @@
 <br/>
 
 <!-- ============================= NEOFETCH ============================= -->
+
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img src="./about.svg" width="100%" alt="about-me.ts — role, stack, open source and philosophy" />
+  <img src="./svgs/about.svg" width="100%" alt="about-me.ts — role, stack, open source and philosophy" />
 </div>
 
 - 📈 &nbsp;**315+ ⭐** on my [DSA Interview Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes) — used by devs prepping for tech interviews
-- 💼 &nbsp;Shipping full-stack products end to end — web, mobile, CRM & admin panels
 
 <!-- ============================= EXPERIENCE ============================= -->
+
 ## 💼 Experience
 
 <a href="https://www.zarleinfotech.com">
-  <img src="./experience.svg" width="100%" alt="Software Engineer at Zarle Infotech — active since Jan 2025" />
+  <img src="./svgs/experience.svg" width="100%" alt="Software Engineer at Zarle Infotech — active since Jan 2025" />
 </a>
 
 <!-- ============================= PROJECTS ============================= -->
+
 ## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <a href="https://github.com/shubhanshurav/Interview-Preparation-Notes">
-        <img src="./card-interview-notes.svg" width="100%" alt="Interview Preparation Notes — 315+ stars" />
+        <img src="./svgs/card-interview-notes.svg" width="100%" alt="Interview Preparation Notes — 315+ stars" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/shubhanshurav/DOT-BATCH">
-        <img src="./card-dot-batch.svg" width="100%" alt="DOT Batch Notes" />
+        <img src="./svgs/card-dot-batch.svg" width="100%" alt="DOT Batch Notes" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/shubhanshurav/NetflixGPT">
-        <img src="./card-netflixgpt.svg" width="100%" alt="NetflixGPT" />
+        <img src="./svgs/card-netflixgpt.svg" width="100%" alt="NetflixGPT" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/shubhanshurav/e-Shopping-store">
-        <img src="./card-eshop.svg" width="100%" alt="e-Shopping Store" />
+        <img src="./svgs/card-eshop.svg" width="100%" alt="e-Shopping Store" />
       </a>
     </td>
   </tr>
@@ -74,6 +76,7 @@
 </div>
 
 <!-- ============================= STACK ============================= -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -89,6 +92,7 @@
 </div>
 
 <!-- ============================= STATS ============================= -->
+
 ## 📊 GitHub Stats
 
 <table>
@@ -107,6 +111,7 @@
 </div>
 
 <!-- ============================= ACTIVITY GRAPH ============================= -->
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -114,6 +119,7 @@
 </div>
 
 <!-- ============================= SNAKE ============================= -->
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -124,6 +130,7 @@
 </div>
 
 <!-- ============================= TROPHIES ============================= -->
+
 ## 🏆 Trophies
 
 <div align="center">
@@ -131,6 +138,7 @@
 </div>
 
 <!-- ============================= FORTUNE ============================= -->
+
 ## 💬 Dev Humor
 
 <div align="center">
@@ -142,6 +150,7 @@
 </div>
 
 <!-- ============================= CONNECT ============================= -->
+
 ## 🤝 Connect With Me
 
 <div align="center">

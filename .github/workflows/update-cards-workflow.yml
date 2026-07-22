@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: update card svgs with live repo stats
-        run: node update-cards.mjs
+        run: node scripts/update-cards.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -24,8 +24,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- card-*.svg; then
-            git add card-*.svg
+          if ! git diff --quiet -- svgs/card-*.svg; then
+            git add svgs/card-*.svg
             git commit -m "chore: refresh project card stats"
             git push
           fi

@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - profile-config.json
-      - generate-profile.mjs
+      - scripts/generate-profile.mjs
   workflow_dispatch:
 
 permissions:
@@ -18,14 +18,14 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: generate about and experience svgs
-        run: node generate-profile.mjs
+        run: node scripts/generate-profile.mjs
 
       - name: commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- about.svg experience.svg; then
-            git add about.svg experience.svg
+          if ! git diff --quiet -- svgs/about.svg svgs/experience.svg; then
+            git add svgs/about.svg svgs/experience.svg
             git commit -m "chore: regenerate profile svgs from config"
             git push
           fi
